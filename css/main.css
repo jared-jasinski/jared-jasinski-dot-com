@@ -18,7 +18,6 @@ body {
   
   #dotplanContainer {
     padding: 1px;
-    /* margin-left: -15px; */
   }
   
   .dotplanIsLoading {
@@ -31,7 +30,7 @@ body {
   }
   
   body {
-    background: #282A36;
+    background: #1e2124;
     color:      #F8F8F2;
   }
   
@@ -42,19 +41,15 @@ body {
   }
   
   a, a:active, a:visited {
-    color: #8BE9FD;
-    /* font-family: Menlo, Monaco, 'Courier New', monospace; */
-    /* background-color: #1d2021; */
+    color: #9f99de;
   }
   
   .site-title > a {
     text-decoration: none;
-    color: #69FF94;
+    color: #420599;
   }
   
   h1 {
-    /* font-family: Menlo, Monaco, 'Courier New', monospace; */
-    /* color: #FF79C6; */
     margin-bottom: 0.25rem;
     margin-top: 0rem;
   }
@@ -67,7 +62,7 @@ body {
   
   h2 {
     font-size: 1.6rem;
-    color: #BD93F9;
+    color: #9c57ff;
   
   }
   
@@ -76,7 +71,7 @@ body {
     /* color: #FF79C6; */
     /* font-family: Menlo, Monaco, 'Courier New', monospace; */
     margin-bottom: .25rem;
-    color: #BD93F9;
+    color: #9c57ff;
   }
   
   blockquote {
@@ -176,31 +171,3 @@ body {
     width: 100%;
      /*height: 100%;*/
   }
-  
-  color-palatte { color: #282A36 }
-  color-palatte { color: #F8F8F2 }
-  color-palatte { color: #44475A }
-  color-palatte { color: #6272A4 }
-  color-palatte { color: #8BE9FD }
-  color-palatte { color: #50FA7B }
-  color-palatte { color: #FFB86C }
-  color-palatte { color: #FF79C6 }
-  color-palatte { color: #BD93F9 }
-  color-palatte { color: #FF5555 }
-  color-palatte { color: #F1FA8C }
-  color-palatte { color: #21222C }
-  color-palatte { color: #FF5555 }
-  color-palatte { color: #50FA7B }
-  color-palatte { color: #F1FA8C }
-  color-palatte { color: #BD93F9 }
-  color-palatte { color: #FF79C6 }
-  color-palatte { color: #8BE9FD }
-  color-palatte { color: #F8F8F2 }
-  color-palatte { color: #a8b2cf }
-  color-palatte { color: #FF6E6E }
-  color-palatte { color: #69FF94 }
-  color-palatte { color: #FFFFA5 }
-  color-palatte { color: #D6ACFF }
-  color-palatte { color: #FF92DF }
-  color-palatte { color: #A4FFFF }
-  color-palatte { color: #FFFFFF }
